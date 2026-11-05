@@ -1,4 +1,4 @@
-# CommitCafe
+# My CommitCafe
 
 You've joined the CommitCafe team as a junior dev. Your colleague is also working on the codebase today ...
 
